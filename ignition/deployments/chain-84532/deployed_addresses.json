@@ -1,0 +1,8 @@
+{
+  "LansellerModule#Token": "0xE02FE869AE80ea475439734Bd29e937aD774BbFC",
+  "LansellerModule#Verifier": "0x00C1E222E90AF6b65DDCD79916549dba248Fe10B",
+  "LansellerModule#LanSeller": "0x55eB1BB6F3aaDa790Cd6b23f5FF586Fee0ff1257",
+  "EduBaseModule#EduBaseToken": "0x5F9cf1Aecf388d23c0f710f4a64C8458545B4248",
+  "EduBaseModule#EduBaseGovernance": "0x5e85Ee1c67d4486493A1931bEf5191157B5FA394",
+  "EduBaseModule#EduBase": "0xC91BE0a1E7E2A4dd7Ec1e8EC6698E0345b112Fe0"
+}
